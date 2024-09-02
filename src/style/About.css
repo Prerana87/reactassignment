@@ -1,0 +1,27 @@
+.About {
+  display: flex;
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-bottom: 3%;
+}
+.information {
+  text-align: left;
+  margin-right: 2%;
+}
+#abtbtn {
+  background-color: hsl(200, 68%, 15%);
+  height: 15%;
+  width: 35%;
+}
+#img1 {
+  height: 34vh;
+  width: 20vh;
+  position: relative;
+  margin-top: 30%;
+}
+#img2 {
+  height: 45vh;
+  width: 30vh;
+  position: absolute;
+  margin-left: 1%;
+}

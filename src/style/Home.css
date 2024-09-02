@@ -1,0 +1,52 @@
+.Bimage {
+  background-image: url("../images/home1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 110vh;
+  width: 208vh;
+  overflow: hidden;
+}
+.text {
+  margin-right: 30%;
+  margin-left: 17%;
+  margin-top: 15%;
+  color: white;
+  font-size: 1.5rem;
+  text-align: left;
+}
+button {
+  background-color: hsla(187, 58%, 26%, 0.582);
+  border: none;
+  height: 7vh;
+  width: 17%;
+  color: white;
+}
+.small-image {
+  height: 14vh;
+  width: 20vh;
+  margin-left: 20%;
+  margin-top: 7%;
+  margin-right: 3%;
+}
+.Bsmall-image {
+  background-color: rgb(7, 71, 84);
+  width: 47vh;
+  height: 20vh;
+  margin-left: 60%;
+  margin-top: -6%;
+  display: flex;
+}
+#places {
+  color: white;
+  margin-top: 3%;
+  text-align: left;
+  margin-left: 5%;
+}
+#icon {
+  margin-left: -45%;
+}
+.more {
+  display: flex;
+  margin-left: 10%;
+}

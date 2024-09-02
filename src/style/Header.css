@@ -1,0 +1,17 @@
+#items {
+  justify-items: space-between;
+  margin-left: 6%;
+  text-decoration: none;
+  color: rgb(15, 8, 8);
+  font-weight: bold;
+  margin-top: 3%;
+  
+}
+.logo {
+  margin-top: 3%;
+  margin-left: 1%;
+  margin-right: 20%;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
